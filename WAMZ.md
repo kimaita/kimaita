@@ -14,7 +14,7 @@ I am a Data Scientist and Biomedical Engineer. I love research and leverage my d
 
 <a href="https://linkedin.com/in/wamuchie-colette-8a1730225">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" alt="Colette Muiruri LinkedIn" height=32 width=32/>
-</a>  
+</a>
 <a href="mailto:wamuchiecolette@gmail.com">
     <img height=32 width=32 src="./images/icons8-gmail.svg" alt="Colette Muiruri Gmail" />
 </a>
@@ -22,14 +22,3 @@ I am a Data Scientist and Biomedical Engineer. I love research and leverage my d
 > P.S.  
 >|<img alt="One Piece's Monkey D. Luffy" src="./images/icons8-monkey-d-luffy.svg" height=50/> | I'm a big One Piece fan, that could be an icebreaker😉|
 >|--|--|
-
-
-<!--
-- I’m  ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-
-- 
-- ⚡ Fun fact: ...
--->
